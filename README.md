@@ -36,3 +36,11 @@
 ## Учебный формат
 
 Команда из четырёх ролей — Product/VO, AI Engineer, Delivery и Quality & Safety — работает над темой 16 недель в рамках семи спринтов-лабораторных.
+
+## Материалы лабораторной 1: Product / VO
+
+- [PRD: сегмент, боли и North Star](docs/prd.md)
+- [Фальсифицируемые гипотезы](docs/hypotheses.md)
+- [Глоссарий команды](docs/glossary.md)
+- [Бриф итоговой картинки](docs/brief.md)
+- [План проблемных интервью и заметки](docs/insights.md)
